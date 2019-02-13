@@ -12,7 +12,7 @@ Setelah tersimpan lalu buka cmd untuk menampilkan output, jika berhasil maka has
   Selanjutnya buka internet lalu masuk ke github, dan buat repositori baru dengan nama tugas labpy1
 Lalu selanjutnya buka aplikasi gitbash dan kita buat folder readme di github seperti gambar di bawah ini :
 
-
+![gambar iqbal 1](https://user-images.githubusercontent.com/46512186/52684606-63988900-2f79-11e9-9014-ea4ebea1518d.png)
 
 
 
