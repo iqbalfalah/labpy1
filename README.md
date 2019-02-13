@@ -14,7 +14,7 @@ Lalu selanjutnya buka aplikasi gitbash dan kita buat folder readme di github sep
 
 ![gambar iqbal 1](https://user-images.githubusercontent.com/46512186/52684606-63988900-2f79-11e9-9014-ea4ebea1518d.png)
 
-
+![gambar iqbal 2](https://user-images.githubusercontent.com/46512186/52684613-672c1000-2f79-11e9-8291-d4240b788fe9.png)
 
 
   Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa If yaitu bila suatu kondisi 
